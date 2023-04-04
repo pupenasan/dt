@@ -6,4 +6,6 @@
 2. Огляд звіту дослідження accatech "Індекс зрілості Industrie 4.0" 08.03.23
    - [запис вебінару](https://youtu.be/pcIE-qpowvY)
    - [презентація](https://drive.google.com/file/d/1wls1U2a0N_p1FNzvZNW5rXTSKy70hCWI/view?usp=share_link) 
+3. Презентація концепту проекту від Майтек
+   - [запис вебінару](https://youtu.be/nzA3X0wuW28)
 
