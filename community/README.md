@@ -8,4 +8,7 @@
    - [презентація](https://drive.google.com/file/d/1wls1U2a0N_p1FNzvZNW5rXTSKy70hCWI/view?usp=share_link) 
 3. Презентація концепту проекту від Майтек
    - [запис вебінару](https://youtu.be/nzA3X0wuW28)
+4. Вебінар "Цифрові двійники для цифрової трансформації"
+   - [запис вебінару](https://youtu.be/MPCoFgYvCsE)
+   - [презентації](https://drive.google.com/drive/folders/12eXt9QLLxZ-G1gf4QLDlyVnCDmvvIJwB?usp=sharing)
 
